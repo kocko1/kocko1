@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "capri_widget": {
+      "command": "node",
+      "args": ["${CODEX_PLUGIN_ROOT}/server.mjs"],
+      "cwd": "${CODEX_PLUGIN_ROOT}",
+      "enabled": true,
+      "default_tools_approval_mode": "approve",
+      "startup_timeout_sec": 10,
+      "tool_timeout_sec": 60
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "name": "capri-companion",
+  "mcpServers": "./.mcp.json",
+  "description": "Connects OpenAI Codex to the floating Capri (Project Capricorn) Cyberpunk: Edgerunners S2 desktop widget.",
+  "author": {
+    "name": "Night City Netrunners"
+  },
+  "license": "MIT"
+}
